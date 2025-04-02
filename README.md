@@ -28,11 +28,13 @@ Ajoutez n'importe quelle fonctionnalité extra que vous voulez.
 Au démarrage, le programme doit créer le concessionaire et populer l'inventaire avec une
 liste initiale d'autos différents.
 
+--------------------------------------------------------------------------------------------
+
 Défi: À la place de populer l'inventaire en créant directement des objets de type
 Auto dans le code, populer l'inventaire à partir d'un fichier .json ou .txt
 qui contient les caractéristiques des autos à initialiser.
 
-__Défi : À la fermeture, le programme doit documenter tout son inventaire dans un fichier
+Défi : À la fermeture, le programme doit documenter tout son inventaire dans un fichier
 .txt ou .json, ce qui permet de sauvegarder l'état des autos en inventaire pour ne pas
-les perdre à l'arrêt du progamme.__
---------------------------------------------
+les perdre à l'arrêt du progamme.
+
