@@ -1,0 +1,65 @@
+[
+  {
+    "marque": "Toyota",
+    "modele": "Corolla",
+    "couleur": "Bleu",
+    "prix": 25000,
+    "kilometrage": 15000,
+    "moteur": {
+      "type": "essence",
+      "capacite": 1.8,
+      "cylindres": 4
+    },
+    "parking_spot": 0
+  },
+  {
+    "marque": "Tesla",
+    "modele": "Model 3",
+    "couleur": "Noir",
+    "prix": 45000,
+    "kilometrage": 5000,
+    "moteur": {
+      "type": "electrique"
+    },
+    "parking_spot": 1
+  },
+  {
+    "marque": "Xiaomi",
+    "modele": "Su7",
+    "couleur": "bleu",
+    "prix": 20000.0,
+    "kilometrage": 10000,
+    "moteur": {
+      "type": "electrique",
+      "capacite": null,
+      "cylindres": null
+    },
+    "parking_spot": 2
+  },
+  {
+    "marque": "BMW",
+    "modele": "7",
+    "couleur": "noir",
+    "prix": 70000.0,
+    "kilometrage": 50000,
+    "moteur": {
+      "type": "essence",
+      "capacite": 2.0,
+      "cylindres": 4
+    },
+    "parking_spot": 40
+  },
+  {
+    "marque": "Toyota",
+    "modele": "corrola",
+    "couleur": "blanch",
+    "prix": 20000.0,
+    "kilometrage": 5000,
+    "moteur": {
+      "type": "essence",
+      "capacite": 2.0,
+      "cylindres": 4000
+    },
+    "parking_spot": 10
+  }
+]
