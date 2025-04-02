@@ -32,7 +32,7 @@ Défi: À la place de populer l'inventaire en créant directement des objets de 
 Auto dans le code, populer l'inventaire à partir d'un fichier .json ou .txt
 qui contient les caractéristiques des autos à initialiser.
 
-Défi : À la fermeture, le programme doit documenter tout son inventaire dans un fichier
+__Défi : À la fermeture, le programme doit documenter tout son inventaire dans un fichier
 .txt ou .json, ce qui permet de sauvegarder l'état des autos en inventaire pour ne pas
-les perdre à l'arrêt du progamme.
+les perdre à l'arrêt du progamme.__
 --------------------------------------------
