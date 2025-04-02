@@ -1,4 +1,5 @@
-Projet proposé (Vous pouvez proposer votre propre projet): Écrire un programme en
+# Projet proposé (Vous pouvez proposer votre propre projet):
+Écrire un programme en
 python qui permet de gérer un concessionnaire
 automobile. Toutes les opérations sur les autos ou les concessionnaires doivent etre faites
 à travers des méthodes de la classe Concessionnaire, et il faut utiliser une classe
